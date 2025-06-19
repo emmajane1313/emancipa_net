@@ -6,7 +6,6 @@ export async function GET() {
   const rootUrl = `
     <url>
       <loc>${baseUrl}/</loc>
-      <xhtml:link rel="alternate" hreflang="x-default" href="${baseUrl}/" />
     </url>
   `;
 
