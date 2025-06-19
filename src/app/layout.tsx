@@ -6,18 +6,18 @@ import Providers from "./providers";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://emancipa.net/"),
-  title: "Emancipate the Net",
+  title: "Emancipate the Net by Emma-Jane MacKinnon-Lee",
   description:
     "And there’s no point raising problems with people who don't learn how to understand them, in a system that wasn’t built for you, and still isn’t.",
   twitter: {
     card: "summary_large_image",
-    title: "Emancipate the Net",
+    title: "Emancipate the Net by Emma-Jane MacKinnon-Lee",
     description:
       "And there’s no point raising problems with people who don't learn how to understand them, in a system that wasn’t built for you, and still isn’t.",
     creator: "@emmajane1313",
   },
   openGraph: {
-    title: "Emancipate the Net",
+    title: "Emancipate the Net by Emma-Jane MacKinnon-Lee",
     description:
       "And there’s no point raising problems with people who don't learn how to understand them, in a system that wasn’t built for you, and still isn’t.",
   },
