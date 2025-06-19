@@ -22,7 +22,7 @@ const Cambio = (): JSX.Element => {
         >
           <Gallery />
           <div
-            className="relative w-full h-fit flex cursor-click  font-poster flex-row gap-3 rainbow text-3xl sm:text-7xl uppercase text-red-900 overflow-hidden mb-10"
+            className="relative w-full h-fit flex cursor-click  font-poster flex-row gap-3 rainbow text-3xl sm:text-7xl uppercase text-red-900 overflow-hidden mb-24 sm:mb-10"
             onClick={() => window.open("https://emancipa.xyz")}
           >
             <div className="relative w-fit h-fit flex whitespace-nowrap">
