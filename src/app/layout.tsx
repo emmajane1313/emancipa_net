@@ -68,6 +68,8 @@ export default function RootLayout({
               url: "https://emmajanemackinnonlee.com/",
               sameAs: [
                 "https://emmajanemackinnonlee.com/",
+                "https://emmajanemackinnonlee.net/",
+                "https://emmajanemackinnonlee.xyz/",
                 "https://syntheticfutures.xyz/",
                 "https://web3fashion.xyz/",
                 "https://emancipa.xyz/",
